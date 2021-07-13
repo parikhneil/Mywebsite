@@ -1,0 +1,244 @@
+html, body {
+    margin: 0px; 
+    padding: 0px; 
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.aboutme main {
+    height: 85vh;
+    background-color: #999;
+    color: white;
+    margin-bottom: 0;
+    margin-top: 0; 
+}
+
+.myprojects-main {
+    height: 85vh;
+    background-color: #999;
+    color: white;
+    margin-bottom: 0;
+    margin-top: 0; 
+}
+
+.myprojects-header {
+    height: 10vh;
+    margin-bottom: 0px;
+}
+
+.myprojects-footer {
+    height: 15vh;
+    margin-top: 0
+}
+
+.aboutme header {
+    height: 10vh;
+    margin-bottom: 0px;
+}
+
+.aboutme footer {
+    height: 15vh;
+    margin-top: 0;
+}
+
+
+.aboutme-footer{
+    background-color: #333;
+    height:10rem;
+    margin-top:3rem;
+    padding-left: 20px;
+    padding:10px 30px;
+}
+
+footer div{
+    color:#aaa;
+    font-size: 1.5rem;
+    padding-top: 2rem;
+    text-align: center;
+}
+
+footer i:hover{
+    color:rosybrown;
+}
+
+#top{
+    text-align: center;
+    padding: 0px 0px 16px; 
+   
+}
+#top h1{
+    margin:32px 0px;
+    font-family: monospace;
+    font-size: 24px;
+}
+
+#top img{
+    width:100%;
+}
+
+#travel img{
+    width:23%;
+    margin:0.75%;
+}
+
+/* h2{
+    color: #d3d3d3;
+} */
+
+
+#music audio{
+    width:23%;
+    margin:0.75%;
+    padding: 50px 0px;
+    
+}
+
+#videos video{
+    width:23%;
+    margin:0.75%;
+}
+
+#youtube iframe{
+    width: 45%;
+    height:409px;
+    margin: 1%;   
+}
+
+.d-inline-block{
+    display: inline-block;
+}
+
+#menu {
+    float:right;  
+    list-style: none;  
+}
+
+header {    
+    box-shadow: 0px -2px 5px gray; 
+}
+
+#menu ul {
+    list-style: none;    
+}
+
+#menu li {
+    padding: 1rem 1rem;
+}
+
+#logo-div h5{
+    font-size: 20px;
+}
+
+.nav-link{
+    text-decoration: none;
+    color:black;
+}
+
+
+
+.aboutme i {
+    padding: 1rem;
+}
+
+/* Contact Me Page */
+
+
+.contactme-header {
+    margin-top: 0;
+}
+.contactme-main {
+    background-color: #999;
+    color: rgb(68, 71, 224);
+    font-family: 'Playfair Display', serif;
+    height: 75vh;
+    margin-bottom: 0;
+    margin-top: 0;    
+    text-align: center;
+}
+
+.contactme-footer {
+    height: 15vh;
+    margin-top: 0;
+    padding-top: 0;
+}
+
+.contactme-heading h1 {
+    font-size: 70px;
+    margin-bottom: 5px;
+}
+
+.contactme-heading h4 {
+    font-size: 40px; 
+    margin-top: 5px;
+    font-style: italic;
+}
+
+.contactme-input input {
+    width: 250px;
+    height: 30px;
+    margin-bottom: 15px;
+}
+
+.contactme-input-submit {
+    font-style: 700;
+    height: 50px;
+    width: 150px;
+    margin-top: 10px;
+    border-radius: 7px; 
+    background-color: rgb(68, 71, 224);
+    font-size: 20px; 
+}
+
+.home-main-header { 
+    padding: 200px;    
+    text-align: center;
+}
+
+.home-name-header {
+    color: blue;
+    font-size: 55px;  
+}
+
+.aboutme-main-description {
+    padding: 80px; 
+}
+
+.aboutme-main-header {
+    font-size: 75px;
+    margin-top: 0px;
+    position: absolute; 
+    left: 40%; 
+    top: 20%;
+    color: #d3d3d3;
+
+}
+
+.name {
+    margin-left: 20px; 
+}
+
+.gallery-main h1 {
+    color: #d3d3d3;
+}
+
+.nflblog-team-link:hover {
+    text-decoration: none; 
+}
+
+.nflblog-team-link:visited, .nflblog-team-link:active, .nflblog-team-link:link {
+    color: #68bdba;
+}
+
+.blog-post-content-nfl {
+    line-height: 1.5; 
+}
+
+#blog-banner {
+    width: 100%;
+    height: 33vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 0;
+}
